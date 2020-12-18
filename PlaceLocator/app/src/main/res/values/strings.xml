@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PlaceLocator</string>
+    <string name="title_activity_mapgateway">Map</string>
+    <string name="title_activity_mapnehru">Map</string>
+    <string name="title_activity_mapmarine">Map</string>
+    <string name="title_activity_mapsanjay">Map</string>
+    <string name="title_activity_mapclink">Map</string>
+
+    <!--    Made flexible for blind people also, so that screen reader can guide them properly-->
+<!--    <string name="navigation_drawer_open">Open navigation drawer</string>-->
+<!--    <string name="navigation_drawer_close">Close navigation drawer</string>-->
+</resources>
